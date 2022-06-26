@@ -32,5 +32,4 @@ hello.c:5:5: warning: incompatible implicit declaration of built-in function ‘
     5 |     printf("hello, world\n");
       |     ^~~~~~
 hello.c:5:5: note: include ‘<stdio.h>’ or provide a declaration of ‘printf’
-```
- 
+``` 
